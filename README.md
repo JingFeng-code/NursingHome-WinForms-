@@ -21,14 +21,3 @@
 | SQL Server| 後端資料庫，儲存使用者、貼文、留言等資訊 |
 | ADO.NET  | 資料庫存取技術，用於連接與執行 SQL 指令 |
 | 多層架構 (3-tier) | 採用 UI、商業邏輯、資料存取分層設計 |
-
----
-
-## 專案架構 Project Structure
-```text
-project-root/
-├─ UI/        # WinForms 前端表單程式碼
-├─ BLL/       # 商業邏輯層
-├─ DAL/       # 資料存取層 (ADO.NET)
-├─ Docs/      # 文件或示意圖
-└─ README.md
