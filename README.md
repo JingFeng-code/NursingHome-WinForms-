@@ -26,7 +26,6 @@
 
 ## 專案架構 Project Structure
 project-root/
-│
 ├─ UI/ # WinForms 前端表單程式碼
 ├─ BLL/ # 商業邏輯層
 ├─ DAL/ # 資料存取層 (ADO.NET)
