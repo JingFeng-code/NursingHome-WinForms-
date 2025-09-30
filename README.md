@@ -25,11 +25,10 @@
 ---
 
 ## 專案架構 Project Structure
+```text
 project-root/
-├─ UI/       # WinForms 前端表單程式碼
-├─ BLL/      # 商業邏輯層
-├─ DAL/      # 資料存取層 (ADO.NET)
-├─ Docs/     # 文件或示意圖
+├─ UI/        # WinForms 前端表單程式碼
+├─ BLL/       # 商業邏輯層
+├─ DAL/       # 資料存取層 (ADO.NET)
+├─ Docs/      # 文件或示意圖
 └─ README.md
-
----
